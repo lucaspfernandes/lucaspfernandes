@@ -39,6 +39,8 @@
   </a>
 </div>
 
+<b>
+  
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br>
   <img src="https://profile-counter.glitch.me/lucaspfernandes/count.svg" />
