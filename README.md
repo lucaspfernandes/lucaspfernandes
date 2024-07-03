@@ -20,6 +20,7 @@
 <div align="left"> 
   <h3><strong> ✒️ Skills: </strong></h3>
   - Programming languages: Python, C/C++, SQL; 
+  
   - Python libraries: PyTorch, Pandas, NumPy, Hugging Face, TensorFlow, Scikit-Learn, MPI, torch's parallel;
 </div>
 </div>
