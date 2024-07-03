@@ -15,17 +15,21 @@
 
 <div align="left"> 
   <h3><strong> 🧠 Interests: </strong></h3>
+  
   - Research, Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, Multimodal AI;
+  - 
 </div>  
 <div align="left"> 
   <h3><strong> ✒️ Skills: </strong></h3>
+  
   - Programming languages: Python, C/C++, SQL; 
   
   - Python libraries: PyTorch, Pandas, NumPy, Hugging Face, TensorFlow, Scikit-Learn, MPI, torch's parallel;
+    
 </div>
 </div>
 
-<div align="left"> 
+<div align="center"> 
   <h3><strong> Contact me at: </strong></h3>
   <a href="https://www.linkedin.com/in/lucaspfer/">
     <img height="25" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
