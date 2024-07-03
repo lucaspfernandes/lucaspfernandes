@@ -17,7 +17,7 @@
   <h3><strong> 🧠 Interests: </strong></h3>
   
   - Research, Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, Multimodal AI;
-  - 
+   
 </div>  
 <div align="left"> 
   <h3><strong> ✒️ Skills: </strong></h3>
@@ -39,7 +39,7 @@
   </a>
 </div>
 
-<b>
+<br>
   
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br>
