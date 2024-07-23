@@ -24,7 +24,7 @@
   
   - Programming languages: Python, C/C++, SQL 
   
-  - Python libraries: PyTorch, Pandas, NumPy, Hugging Face, TensorFlow, Scikit-Learn, MPI, torch's parallel
+  - Python libraries: PyTorch, Pandas, NumPy, Hugging Face, TensorFlow, Scikit-Learn, MPI, Plotly, torch's parallel
     
 </div>
 </div>
