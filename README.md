@@ -16,7 +16,7 @@
 <div align="left"> 
   <h3><strong> 🧠 Interests: </strong></h3>
   
-  - Research, Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, Multimodal AI
+  - Research, Machine Learning, Deep Learning, NLP, LLMs, Computer Vision, Generative AI, Multimodal AI
    
 </div>  
 <div align="left"> 
@@ -24,7 +24,7 @@
   
   - Programming languages: Python, C/C++, SQL 
   
-  - Python libraries: PyTorch, Pandas, NumPy, Hugging Face, TensorFlow, Scikit-Learn, MPI, Plotly, torch's parallel
+  - Python libraries: PyTorch, Pandas, NumPy, Hugging Face, TensorFlow, Scikit-Learn, MPI, Plotly, LangChain, LlammaIndex, torch's parallel
     
 </div>
 </div>
