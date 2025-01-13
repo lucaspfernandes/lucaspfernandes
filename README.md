@@ -6,7 +6,7 @@
   
 <div align="left"> 
   <h3> <strong>💡 About Me: </strong></h3>
-  
+  - 💻 &nbsp; Gen AI | Computer Vision Engineer @ [Diffusely](https://www.diffuse.ly/)
   - 🎓 &nbsp; Artificial Intelligence and Data Science [IASD](https://www.masteriasd.eu/), Master at [Université PSL](https://psl.eu/en)
   - 🎓 &nbsp; Image processing and Data Science, Exchange Program at [Télécom Paris](https://www.telecom-paris.fr/en/home) - Institut Polytechnique de Paris 
   - 🎓 &nbsp; Electrical Engineering, BSc at [Federal University of Paraíba](https://www.ufpb.br)
