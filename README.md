@@ -26,7 +26,7 @@
   
   - Programming languages: Python, C/C++, SQL 
   
-  - Python libraries: PyTorch, Pandas, NumPy, Hugging Face, TensorFlow, Scikit-Learn, MPI, Plotly, LangChain, LlammaIndex, torch's parallel
+  - Python libraries: PyTorch, Pandas, NumPy, Hugging Face, TensorFlow, Scikit-Learn, MPI, DeepSpeed
     
 </div>
 </div>
@@ -43,8 +43,3 @@
 
 <br>
   
-<p align="center"> 
-  <i><b>Profile Visitor Count...</b></i><br>
-  <img src="https://profile-counter.glitch.me/lucaspfernandes/count.svg" />
-</p>
-
